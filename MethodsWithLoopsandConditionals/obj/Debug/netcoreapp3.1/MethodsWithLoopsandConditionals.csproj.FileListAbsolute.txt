@@ -1,0 +1,13 @@
+C:\Users\El Capitan\source\repos\MethodsWithLoopsandConditionals\MethodsWithLoopsandConditionals\bin\Debug\netcoreapp3.1\MethodsWithLoopsandConditionals.exe
+C:\Users\El Capitan\source\repos\MethodsWithLoopsandConditionals\MethodsWithLoopsandConditionals\bin\Debug\netcoreapp3.1\MethodsWithLoopsandConditionals.deps.json
+C:\Users\El Capitan\source\repos\MethodsWithLoopsandConditionals\MethodsWithLoopsandConditionals\bin\Debug\netcoreapp3.1\MethodsWithLoopsandConditionals.runtimeconfig.json
+C:\Users\El Capitan\source\repos\MethodsWithLoopsandConditionals\MethodsWithLoopsandConditionals\bin\Debug\netcoreapp3.1\MethodsWithLoopsandConditionals.runtimeconfig.dev.json
+C:\Users\El Capitan\source\repos\MethodsWithLoopsandConditionals\MethodsWithLoopsandConditionals\bin\Debug\netcoreapp3.1\MethodsWithLoopsandConditionals.dll
+C:\Users\El Capitan\source\repos\MethodsWithLoopsandConditionals\MethodsWithLoopsandConditionals\bin\Debug\netcoreapp3.1\MethodsWithLoopsandConditionals.pdb
+C:\Users\El Capitan\source\repos\MethodsWithLoopsandConditionals\MethodsWithLoopsandConditionals\obj\Debug\netcoreapp3.1\MethodsWithLoopsandConditionals.csprojAssemblyReference.cache
+C:\Users\El Capitan\source\repos\MethodsWithLoopsandConditionals\MethodsWithLoopsandConditionals\obj\Debug\netcoreapp3.1\MethodsWithLoopsandConditionals.AssemblyInfoInputs.cache
+C:\Users\El Capitan\source\repos\MethodsWithLoopsandConditionals\MethodsWithLoopsandConditionals\obj\Debug\netcoreapp3.1\MethodsWithLoopsandConditionals.AssemblyInfo.cs
+C:\Users\El Capitan\source\repos\MethodsWithLoopsandConditionals\MethodsWithLoopsandConditionals\obj\Debug\netcoreapp3.1\MethodsWithLoopsandConditionals.csproj.CoreCompileInputs.cache
+C:\Users\El Capitan\source\repos\MethodsWithLoopsandConditionals\MethodsWithLoopsandConditionals\obj\Debug\netcoreapp3.1\MethodsWithLoopsandConditionals.dll
+C:\Users\El Capitan\source\repos\MethodsWithLoopsandConditionals\MethodsWithLoopsandConditionals\obj\Debug\netcoreapp3.1\MethodsWithLoopsandConditionals.pdb
+C:\Users\El Capitan\source\repos\MethodsWithLoopsandConditionals\MethodsWithLoopsandConditionals\obj\Debug\netcoreapp3.1\MethodsWithLoopsandConditionals.genruntimeconfig.cache
